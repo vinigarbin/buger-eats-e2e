@@ -1,0 +1,18 @@
+{
+  "signup": {
+    "name": "Noah Gael Santos",
+    "cpf": "34599794880",
+    "email": "noah@email.com",
+    "whatsapp": "95987650988",
+    "address": {
+      "postalCode": "85812-000",
+      "street": "Avenida Brasil",
+      "number": "0000",
+      "details": "Casa",
+      "district": "Centro",
+      "cityState": "Cascavel/PR"
+    },
+    "deliveryMethod": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
